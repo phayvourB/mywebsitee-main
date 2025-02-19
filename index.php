@@ -6,7 +6,7 @@
             <ul>
                 <li>Track</li>
                 <li>Quote</li>
-                <li>Ship</li>
+                <li> Ship</li>
                 <li>Billing</li>
             </ul>
         </nav>
@@ -43,7 +43,7 @@
     </div>
 </div>
 
-<div class="row1">
+
         <div class="cols">
             <h3> Leaving Packing to the Pros</h3>
             <p> Bring your shipment and we will take care of the rest. No box or label neccesary</p>
@@ -51,21 +51,7 @@
 
 
     </div>
-</div>
 
-<div class="row2 mt-5">
-    <div class="col-md-12 text-center ">
-        <h3> World class services you can count on </h3>
-
-        <p> Customer first, people led, innovation driven</p>
-    </div>
-</div>
-
-<div class="row5">
-    <div class="col-md-6 m-auto">
-        <img src="assets\images\happy-4.jpg" alt="" class="img-fluid">
-
-    </div>
     <div class="col-6">
 
     </div>
@@ -82,17 +68,22 @@
     <div class="col-md mt-5"><a href="assets\images\amazon.htm"> <img src="assets/images/place2.svg" alt="" class=" img-fluid"></a></div>
     <div class="col-md mt-5"> <a href="assets\images\AliExpress.htm" id="services"><img src="assets/images/place1.svg" alt="" class="img-fluid"></a></div>
     <div class="col-md mt-5"><a href="assets\images\FedEx.html"> <img src="assets\images\places4.svg" alt="" class="img-fluid"></a></div>
-    <div class="col-md mt-5"><a href="assets\images\Ukraine Post.htm"> <img src="assets\images\places5.svg" alt="" class="img-fluid"> </a></div>
-    <div class="col-md"> <button class="see"> See more</button></div>
+</div>
+     <div class="row">
+    <div class="col-md mt-5"><a href=""> <img src="assets\images\deutsche-post.svg" alt="" class="img-fluid"> </a></div>
+    <div class="col-md mt-5"><a href=""> <img src="" alt="" class="img-fluid"> </a></div>
+    <div class="col-md mt-5"><a href=""> <img src="" alt="" class="img-fluid"> </a></div>
+    <div class="col-md mt-5"><a href=""> <img src="" alt="" class="img-fluid"> </a></div>
 </div>
 
 
 </div>
-<div class="ro">
-    <div class="col1 text-center">
-      <h3>  Freqently Asked Questions </h3>
-    </div>
+
+
+<div class="col-6 m-auto" > <button class="see" style="margin-left:100px; width:40%" > See more</button></div>
+
 </div>
+
 
 <div class="row3 mt-5">
     <div class="col-12 text-center">

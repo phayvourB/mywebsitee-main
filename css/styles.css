@@ -64,11 +64,12 @@
     .see{
         background-color:orange;
         margin-top: 80px;
-        width:70%;
+        width:50%;
         border-radius: 20px;
         border: 1px gray;
         padding: 10px;
         justify-content: center;
+
     }
     .services:hover{
         color: blue;
